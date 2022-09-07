@@ -1,0 +1,61 @@
+.results {
+  width: 100%;
+  border-style: solid none none none;
+  border-width: 2px;
+}
+
+.results__container {
+  padding: 2rem;
+  height: 100%;
+  overflow: scroll;
+}
+
+.results__filter,
+.views-and-filter {
+  display: flex;
+  align-items: center;
+}
+
+.results__filter {
+  justify-content: space-between;
+  border-style: none none solid none;
+  border-width: 1px;
+  padding: 0.5rem;
+}
+
+.results__filter span,
+.filter__container label {
+  font-size: 0.85rem;
+}
+
+.views-and-filter {
+  gap: 2rem;
+}
+
+.views {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.views button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  display: block;
+  height: 1.2rem;
+}
+
+.filter__container {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

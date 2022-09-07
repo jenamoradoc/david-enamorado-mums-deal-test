@@ -1,0 +1,54 @@
+.sidebar {
+  border-style: solid solid none none;
+  border-width: 2px;
+  min-width: 220px;
+  padding: 2rem;
+}
+
+.sidebar__title {
+  font-size: 1rem;
+  font-weight: 300;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-top: 0.7rem;
+}
+
+.form h3 {
+  font-size: 0.85rem;
+  font-weight: 300;
+  margin-bottom: 0.2rem;
+}
+
+.form_group {
+  align-items: center;
+  display: flex;
+  gap: 0.4rem;
+  padding-left: 1rem;
+}
+
+.form_group label {
+  font-size: 0.8rem;
+  text-transform: capitalize;
+}
+
+.form_group:not(:last-child) {
+  margin-bottom: 0.2rem;
+}
+
+.price__range input {
+  width: 100%;
+}
+
+.ranges {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ranges span {
+  font-size: 0.75rem;
+}

@@ -1,0 +1,10 @@
+.App {
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  height: 90%;
+}

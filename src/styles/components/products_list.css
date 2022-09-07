@@ -1,0 +1,17 @@
+.products__list {
+  display: grid;
+  gap: 3rem;
+
+  list-style: none;
+  margin: 0 auto;
+  width: 70%;
+}
+
+.grid__view {
+  grid-template-columns: repeat(3, 33%);
+}
+
+.list__view {
+  gap: 0;
+  grid-template-columns: 100%;
+}
