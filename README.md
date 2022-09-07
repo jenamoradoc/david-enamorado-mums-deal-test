@@ -63,7 +63,7 @@ There are no known bugs of this project at the moment.
 There are no tests including on this app, it could be added soon. Tool sugested [Jest](https://jestjs.io/) 
 
 # Link to Live Website
-Link: [Moms Deal Test]()
+Link: [Moms Deal Test](https://deploymentrepository.vercel.app/)
 
 # License
 MIT License
