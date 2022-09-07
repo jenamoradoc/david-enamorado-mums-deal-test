@@ -38,6 +38,7 @@ yarn run dev
 ![Screenshot from 2022-09-07 12-55-28](https://user-images.githubusercontent.com/26368576/188926835-4e3fcb69-674e-4057-9af1-a88196440c69.png)
 
 Applying filters
+
 -Example Min Price and Selected one Product
 
 ![Screenshot from 2022-09-07 13-07-51](https://user-images.githubusercontent.com/26368576/188926984-4a37adff-53a2-4fa1-be0a-a5622e8b18be.png)
@@ -56,7 +57,7 @@ There are no known bugs of this project at the moment.
 # Technologies Used
 * HTML
 * CSS
-* JS
+* TSX
 
 # Tests
 
