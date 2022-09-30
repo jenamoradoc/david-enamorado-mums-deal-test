@@ -10,9 +10,9 @@ Moms deal app test for [Eureka Labs](https://eurekalabs.io/) base on the next [R
 * Git
 * Github
 * Web Browser (Chrome or Firefox)
-* [React](https://es.reactjs.org/)
+* [Angular](https://angular.io/)
 * [Node Js](https://nodejs.org/en/ )
-* [Yarn](https://classic.yarnpkg.com/)
+* [NPM](https://www.npmjs.com/)
 
 # Setup Installation
 * Copy the link of this repository
@@ -64,7 +64,7 @@ There are no known bugs of this project at the moment.
 There are no tests including on this app, it could be added soon. Tool sugested [Jest](https://jestjs.io/) 
 
 # Link to Live Website
-Link: [Moms Deal Test](https://deploymentrepository.vercel.app/)
+Link: [Moms Deal Test](https://david-enamorado-web-angular-version.vercel.app/)
 
 # License
 MIT License
